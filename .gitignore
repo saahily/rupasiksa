@@ -6,3 +6,4 @@ outputs/
 vidyut-data/
 uv.lock
 dist/
+.prime/
