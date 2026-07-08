@@ -2,6 +2,7 @@
 name = "rupasiksa"
 description = "रूपशिक्षा — Sanskrit morphology RL environment: generate Pāṇinian verb forms, verified against the Aṣṭādhyāyī via vidyut-prakriya"
 version = "0.1.0"
+tags = ["sanskrit", "morphology", "linguistics", "single-turn", "train", "eval"]
 requires-python = ">=3.10"
 dependencies = [
     "verifiers>=0.1.8",
